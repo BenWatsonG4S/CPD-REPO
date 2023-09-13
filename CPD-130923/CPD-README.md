@@ -1,7 +1,7 @@
 # CPD (Sept 13 2023)
  
 1. Learn More TypeScript
-2. Goover current project pages
+2. Go over current project pages
 
 ## 1. Learn More TypeScript
 
@@ -423,3 +423,119 @@
     // Syntax Error:
     //  Property 'z' is private and only accessible within class 'Params'.
     ```
+
+## 2. Go over current project pages
+
+#### Pages to consider:
+  - Year Group At A Glance Page
+  - Year Group Key Statistics Page
+  - Curriculum Overview Page
+  - Curriculum Analysis Page
+  - Attainment Over Time Page
+
+### Year Group At A Glance Page
+
+- Notes:
+
+    - Includes some summarisations of features such as:
+      - Targets and Progress
+      - Key Statistics
+      - RPI - Projected
+      - Attendance
+      - Behaviour
+    - These summarisations are in the form of widget like components that stretch and shrink to cover the whole screen. Maximum row of two widgets.
+    - All widgets have a redirect in their title to the full version of each component.
+    - Nearly all widgets have a modal pop up option, to view the data as a chart or as its tabular equivalent.
+    - Most widgets are interactive.
+    - Includes Contextual Information Modal Popup.
+
+- Questions:
+
+### Year Group Key Statistics Page
+
+- Notes:
+  
+    - Includes some of the key information about a given year group.
+    - This could be for example:
+      - Avg Progress 8 score per student
+      - Grade 5 or above in English and Maths
+      - English Baccalaureate - Average Points Score
+      - English Baccalaureate - Percentage of pupils entering
+      - Etc.
+    - Options to `Select grade types`, activating a modal with checkboxes to toggle grade types and an ordering mechanism next to it to prioritise the order certain grade types.
+    - Another option is `Download CSV` allowing the user to export the contents of the table of this page to a .CSV format.
+    - Coloured Cells have links to the year group explorer.
+    - There is also an option to `Remember grade types`.
+    - Navigation button also availiable to go to the other new pages. Has the text `Go to...` on it.
+
+- Questions:
+
+    - How is `Remember grade types` remembered? Stored with the user in the db?
+        - Answer: Likely local storage
+
+### Curriculum Overview Page
+
+- Notes:
+
+    - This page provides an overview of various curriculums for a year group.
+    - The first section is `Pass Rates by Subject` which includes the following features:
+        - `Add Table(s)` - Determines which tables of grades are loaded given a baseline grade and the percentages are calculated based on grades above or equivelent to it.
+        - `Select Grade Types` - same as KS Page
+        - `Select Snapshots` - selects a snapshot date from the database of a given time period of data. Compares that snapshot data with current data.
+        - `Sort Subjects by` - can sort either by department or alphabetically.
+        - `Percentage/Counts` - toggle the data representation between percentages and counts (personal preference)
+        - `Load/Save Table Sets` - Save the selections youve made on the page to the database to be loaded again in future.
+        - `Visualise Trends` - adds colouring to the table with green for positive trends and red for negative trends.
+        - Includes student and subject filtering options.
+        - Can be downloaded to a `.csv` file
+        - If checked there is also `Key grade or above` which includes data about the key grades and has the following features:
+          - Includes student and subject filtering options.
+          - Can be downloaded to a `.csv` file.
+    - Second Section is `Average Points Per Subject`
+      - Same options as the section above, with the addition of different tables:
+        - Average GCSE numeric points per subject.
+        - Average APS points per subject.
+
+- Questions:
+
+    - Does the top grade table take priority always in this list? i.e. 7+ is all that is used?
+
+        ![Alt text](image.png)
+
+      - Answer: All of them will load below.
+
+    - I noticed that snapshots dont really have a pattern to them in terms of dates. Are these snapshots selected by the schools and generated for that day?
+
+        ![Alt text](image-1.png)
+
+        These seem a bit random?
+
+        - Answer: The schools can choose when to take the snapshot. It's when they make a report, probably mid term, or near the end.
+
+### Curriculum Analysis Page
+
+- Notes:
+
+    - `Year group ribbons` Section has the following features:
+      - Add Ribbon(s)
+      - Zoom In and Out (3 Sizes)
+      - Remember Ribbons Checkbox
+      - Sort Residual Ribbons
+      - Sort Grade Distribution Ribbons
+      - Includes student and subject filtering options.
+      - Can View the tabular representation of the data and export to `.csv` file too.
+  - `RPI - Projected` Section has the following features:
+      - A graph of the projected RPI values
+      - Grade Type Selecter
+      - Includes student and subject filtering options.
+
+- Questions:
+
+
+
+### Attainment Over Time Page
+
+- Notes:
+
+- Questions:
+
