@@ -1,0 +1,22 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": "standard-with-typescript",
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+        "@typescript-eslint/keyword-spacing" : "off",
+        "keyword-spacing": "off",
+        "eslint lines-between-class-members": ["error", "always"],
+        "@typescript-eslint/indent": [ "error", "tab" ],"no-tabs": "off",
+        "no-underscore-dangle": "off",
+        "@typescript-eslint/quotes": ["error", "double", { "avoidEscape": true }], 
+        "quotes": "off",
+        "no-plusplus": "off",
+        "max-len": [ "error", { "code": 120 } ],
+    }
+}
