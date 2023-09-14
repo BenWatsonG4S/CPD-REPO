@@ -537,5 +537,18 @@
 
 - Notes:
 
-- Questions:
+    - **Progess 8 Score**:
+        
+        - Progress 8 measures how well students at a secondary school do in their GCSEs compared to their achievements when they started at the school. A score of 0 means they did as expected. Above 0 means they did better than expected. Below 0 means they did worse than expected.
 
+    - This page shows the data for a year group drilled into over a given time period. It includes the following features:
+      - `Add Measure(s)` - this allows a user to add one or more given measures to a AOT table such as Progress 8 score, Attainment 8 score, Grade 5 or above in English or Maths (Old Score) etc. Measures show the end of year 11 target and the predicted value.
+      - `Add Focus Group(s)` - Focus on a particular group of students in the table. This adds additional rows to the table, subsetting the data for each measure.
+      - `Select Grade Types` - For each measure you can select the types of grades you want shown. I.e. End of Year 11 Target, Predicted, Aspirational Etc.
+      - `Select Snapshots` - If one or more snapshots are selected, the grade is then split into the snapshot(s) column(s) and the current value (Now).
+      - `Percentage / Counts` - A toggle between the value representation. A percentage or a count.
+      - `Load / Save Data Sets` - Save the selections youve made on the page to the database to be loaded again in future.
+
+- Questions:
+    - How are `predicted` values calculated on the site? Teachers input, Algorithm, ML?
+        - Answer: "Teacher Input"

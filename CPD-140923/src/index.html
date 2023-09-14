@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Simple TypeScript Task Manager</h1>
+    </header>
+    <div class="container">
+        <div class="inputs">
+
+            <!-- Title and Input for Task Name -->
+            <label for="taskName">Task Name:</label>
+            <input type="text" id="taskName" placeholder="Task Name">
+            
+            <!-- Title and Dropdown for Task Type -->
+            <label for="taskType">Task Type:</label>
+            <select id="taskType"></select>
+            
+            <!-- Title and Input for Task Due Date -->
+            <label for="taskDueDate">Due Date:</label>
+            <input type="date" id="taskDueDate" placeholder="">
+            
+            <button onclick="addTaskFromInput()">Add Task</button>
+        </div>
+        <ul id="taskList"></ul>
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
