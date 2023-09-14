@@ -36,17 +36,13 @@ var F1Car = /** @class */ (function () {
     };
     return F1Car;
 }());
-console.log();
 var driver1 = new Driver_1.default("Lewis Hamilton", 38, "Monaco");
 driver1.showLicence();
-console.log();
 var oldMan = new Driver_1.default("John Smith", 86, "Oxford");
 oldMan.showLicence();
-console.log();
 var f1Car1 = new F1Car("W13", driver1);
 f1Car1.drive();
 f1Car1.park();
-console.log();
 var f1Car2 = new F1Car("W13", oldMan);
 f1Car2.drive();
 f1Car2.park();
