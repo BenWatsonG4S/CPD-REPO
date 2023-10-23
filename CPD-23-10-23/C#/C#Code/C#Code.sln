@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{398A8F5D-0756-418C-A8CA-5CC827EED38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finalizers", "Finalizers\Finalizers.csproj", "{DE92B586-B665-43A8-A4EA-8D441BF30A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398A8F5D-0756-418C-A8CA-5CC827EED38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398A8F5D-0756-418C-A8CA-5CC827EED38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398A8F5D-0756-418C-A8CA-5CC827EED38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398A8F5D-0756-418C-A8CA-5CC827EED38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE92B586-B665-43A8-A4EA-8D441BF30A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE92B586-B665-43A8-A4EA-8D441BF30A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE92B586-B665-43A8-A4EA-8D441BF30A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE92B586-B665-43A8-A4EA-8D441BF30A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A781D133-45F1-4264-ADDE-BEFF20D795F3}
+	EndGlobalSection
+EndGlobal

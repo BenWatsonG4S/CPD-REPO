@@ -1,0 +1,14 @@
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.AssemblyInfoInputs.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.AssemblyInfo.cs
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.csproj.CoreCompileInputs.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\bin\Debug\net6.0\Finalizers.exe
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\bin\Debug\net6.0\Finalizers.deps.json
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\bin\Debug\net6.0\Finalizers.runtimeconfig.json
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\bin\Debug\net6.0\Finalizers.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\bin\Debug\net6.0\Finalizers.pdb
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\refint\Finalizers.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.pdb
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\Finalizers.genruntimeconfig.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\Finalizers\obj\Debug\net6.0\ref\Finalizers.dll

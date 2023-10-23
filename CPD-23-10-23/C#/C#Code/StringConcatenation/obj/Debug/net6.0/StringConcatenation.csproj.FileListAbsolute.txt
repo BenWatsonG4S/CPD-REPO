@@ -1,0 +1,14 @@
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\bin\Debug\net6.0\StringConcatenation.exe
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\bin\Debug\net6.0\StringConcatenation.deps.json
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\bin\Debug\net6.0\StringConcatenation.runtimeconfig.json
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\bin\Debug\net6.0\StringConcatenation.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\bin\Debug\net6.0\StringConcatenation.pdb
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.AssemblyInfoInputs.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.AssemblyInfo.cs
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\refint\StringConcatenation.dll
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.pdb
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\StringConcatenation.genruntimeconfig.cache
+C:\Users\BenThompson-Watson\OneDrive - Hyperspheric Solutions Ltd\Documents\CPD\CPD-REPO\CPD-23-10-23\C#\C#Code\StringConcatenation\obj\Debug\net6.0\ref\StringConcatenation.dll
