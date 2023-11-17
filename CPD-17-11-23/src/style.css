@@ -1,0 +1,22 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 768px) {
+  .column {
+      width: 50%;
+  }
+}
+@media (max-width: 480px) {
+  .column {
+      width: 100%;
+  }
+}
